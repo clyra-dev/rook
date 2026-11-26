@@ -12,3 +12,11 @@ Presentaciones interactivas y reuniones con voz en vivo.
 En Aura Studio preparas el contenido y revisas el recorrido antes de compartir la presentación. Durante la sesión, los participantes pueden conversar por voz y consultar herramientas autorizadas de AgentOS.
 
 [**Explora el proyecto**](https://clyra.dev/portfolio/rook)　·　[Galería de pantallas](https://clyra.dev/portfolio/rook#project-gallery)　·　[Estudio Clyra](https://clyra.dev/)
+
+## Demo en Swift
+
+Genera una agenda de presentación a partir de tres bloques ficticios e imprime el minuto en que comienza cada uno. Es un ejemplo independiente preparado para esta ficha pública.
+
+```sh
+swift agenda.swift
+```
